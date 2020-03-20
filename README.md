@@ -32,3 +32,4 @@
 ### Edge cases:
 - User1 is in the process of booking an appointment and User2 books it before User1 finishes. So once User1 is done it is no longer available.
     - Solution: When a user presses a time slot it becomes unavailable straight away. And if they cancel or get disapproved it will become available again.
+
